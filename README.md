@@ -1,6 +1,8 @@
 # lpdid
 Local Projections Difference-in-Differences (LP-DiD) estimator Use lpdid With (In) R Software
 
+https://www.youtube.com/watch?v=0jG3oQzJ3eY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
